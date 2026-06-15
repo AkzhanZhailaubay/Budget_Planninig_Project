@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PROG2A_POE_Ismail_Yusuf_Omar_19331746/1.0.0": {
+        "runtime": {
+          "PROG2A_POE_Ismail_Yusuf_Omar_19331746.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PROG2A_POE_Ismail_Yusuf_Omar_19331746/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
